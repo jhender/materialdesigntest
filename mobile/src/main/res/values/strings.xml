@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MDtest</string>
+    <string name="hello_world">“Oh, my sweet summer child," Old Nan said quietly, "what do you know of fear?
+Fear is for the winter, my little lord, when the snows fall a hundred feet
+deep and the ice wind comes howling out of the north. Fear is for the long
+night, when the sun hides its face for years at a time, and little children
+are born and live and die all in darkness while the direwolves grow gaunt and
+hungry, and the white walkers move through the woods”
+― George R.R. Martin, A Game of Thrones</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">next time this is a string</string>
+
+</resources>
